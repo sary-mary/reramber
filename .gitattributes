@@ -1,6 +1,9 @@
+Assets/Font/NotoSansKR-VariableFont_wght.SDF.asset filter=lfs diff=lfs merge=lfs -text
+reramber[[:space:]]2025-11-05_18-52-28/Library/PackageCache/com.unity.burst@1.8.21/.Runtime/libbvrst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+reramber[[:space:]]2025-11-05_18-52-28/Library/PackageCache/com.unity.burst@1.8.21/.Runtime/libbvrst-llvm-127.dylib filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 *.asset filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
 *.a filter=lfs diff=lfs merge=lfs -text
 *.bundle filter=lfs diff=lfs merge=lfs -text

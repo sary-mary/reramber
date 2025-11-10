@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joogh\\reramber 2025-11-05_18-52-28\\reramber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC281B6-8117-49B4-C45A-51F0D833ED56}|Assembly-CSharp.csproj|c:\\users\\joogh\\reramber 2025-11-05_18-52-28\\reramber\\assets\\scripts\\player\\move\\movemont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC281B6-8117-49B4-C45A-51F0D833ED56}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\move\\movemont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movemont.cs",
+              "DocumentMoniker": "C:\\Users\\joogh\\reramber 2025-11-05_18-52-28\\reramber\\Assets\\Scripts\\Player\\Move\\Movemont.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Move\\Movemont.cs",
+              "ToolTip": "C:\\Users\\joogh\\reramber 2025-11-05_18-52-28\\reramber\\Assets\\Scripts\\Player\\Move\\Movemont.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Move\\Movemont.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:13:13.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
